@@ -1,4 +1,4 @@
-## This Challenge contains 5 Questions each are very challenging and creative. Here are the Questions
+## This Challenge contains 5 Questions each are very challenging and creative.
 
 # ***QUESTION 1*** :
 Ratan is a crazy rich person. And he is blessed with luck, so he always made the best profit possible with the shares he bought. 
