@@ -1,7 +1,6 @@
 This Challenge contains 5 Questions each are very challenging and creative. Here are the Questions
 
 # ***QUESTION 1*** :
----------------
 Ratan is a crazy rich person. And he is blessed with luck, so he always made the best profit possible with the shares he bought. 
 That means he bought a share at a low price and sold it at a high price to maximize his profit. 
 Now you are an income tax officer and you need to calculate the profit he made with the given values of stock prices each day. 
@@ -31,7 +30,7 @@ Sample Output:  10
 Explanation: The maximum profit possible is when Ratan buys it in 1 rupee and sells it in 11.
 
 
-# QUESTION 2 :
+# ***QUESTION 2*** :
 
 Frogs are sitting on the x-axis of the plane. The x-axis is represented by a given string. * represents a frog and | represents a stone.
 The string consists of only the above-mentioned characters. You are given a start index array and end index array, 
@@ -65,7 +64,7 @@ Sample output: 0
 Explanation: The substring from index =1 to index=3 is “*|*”. there is no consecutive pair of bars in this string.
 
 
-*QUESTION 3* :
+# ***QUESTION 3*** :
 
 You are given an array, You have to choose a contiguous subarray of length ‘k’, and 
 find the minimum of that segment, return the maximum of those minimums.
@@ -83,7 +82,7 @@ Explanation: The subarrays of size x = 1 are [1],[2],[3],[1], and [2],Because ea
 each value is minimal with respect to the subarray it is in. The maximum of these values is 3. Therefore, the answer is 3.
 
 
-*QUESTION 4* :
+# ***QUESTION 4*** :
 
 At a fun fair, a street vendor is selling different colours of balloons. He sells N number of different colours of balloons (B[]). 
 The task is to find the colour (odd) of the balloon which is present odd number of times in the bunch of balloons.
@@ -137,7 +136,7 @@ Constraints:
 B[i]={{a-z} or {A-Z}}
 
 
-*QUESTION 5* :
+# ***QUESTION 5*** :
 
 Selection of MPCS exams include a fitness test which is conducted on ground. There will be a batch of 3 trainees, 
 appearing for running test in track for 3 rounds. You need to record their oxygen level after every round. 
