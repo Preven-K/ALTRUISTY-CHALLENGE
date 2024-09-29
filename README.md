@@ -1,3 +1,4 @@
+`rgb(9, 105, 218)`
 This Challenge contains 5 Questions each are very challenging and creative. Here are the Questions
 
 # ***QUESTION 1*** :
