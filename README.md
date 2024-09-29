@@ -1,7 +1,7 @@
 This Challenge contains 5 Questions each are very challenging and creative. Here are the Questions
 
-*QUESTION 1* :
-
+# ***QUESTION 1*** :
+---------------
 Ratan is a crazy rich person. And he is blessed with luck, so he always made the best profit possible with the shares he bought. 
 That means he bought a share at a low price and sold it at a high price to maximize his profit. 
 Now you are an income tax officer and you need to calculate the profit he made with the given values of stock prices each day. 
@@ -31,7 +31,7 @@ Sample Output:  10
 Explanation: The maximum profit possible is when Ratan buys it in 1 rupee and sells it in 11.
 
 
-*QUESTION 2* :
+# QUESTION 2 :
 
 Frogs are sitting on the x-axis of the plane. The x-axis is represented by a given string. * represents a frog and | represents a stone.
 The string consists of only the above-mentioned characters. You are given a start index array and end index array, 
